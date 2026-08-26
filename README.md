@@ -131,7 +131,7 @@ gov.al
 gov.na
 gov.ki
 gov.lc
-gov.cd
+gouv.cd
 gov.lk
 gov.si
 gov.zm
@@ -157,10 +157,12 @@ va
 gob.sv
 gov.pw
 gob.mx
+gov.mx
 gov.mn
 gov.cf
 gov.co
 gob.ar
+gov.ar
 gov.gw
 gov.ml
 gov.au
@@ -180,6 +182,9 @@ gov.be
 gov.sr
 gov.lt
 gov.pk
+gos.pk
+gok.pk
+gop.pk
 gov.ht
 admin.ch
 gov.cv
