@@ -1,0 +1,13 @@
+cat.e-resident.gov.ee
+company.e-resident.gov.ee
+mail.gov.ee
+manage.e-resident.gov.ee
+marketplace.e-resident.gov.ee
+mod.gov.ee
+prelive.e-resident.gov.ee
+testprint.asrv.gov.ee
+webfs.asrv.gov.ee
+wifi.gov.ee
+www.mod.gov.ee
+www.prelive.e-resident.gov.ee
+www.wifi.gov.ee

@@ -1,0 +1,12 @@
+data.gov.be
+etranslate.data.gov.be
+mail2.merelbeke.gov.be
+mqa.data.gov.be
+onem.gov.be
+rva.gov.be
+webmail.merelbeke.gov.be
+www.data.gov.be
+www.onem.gov.be
+www.rva.gov.be
+wwwacc.onem.gov.be
+wwwacc.rva.gov.be
