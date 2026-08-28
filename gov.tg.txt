@@ -1,0 +1,7 @@
+cpanel.gov.tg
+i.gov.tg
+mail.gov.tg
+webdisk.gov.tg
+webmail.gov.tg
+www.gov.tg
+www.i.gov.tg

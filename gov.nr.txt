@@ -1,0 +1,16 @@
+admin.naurujudiciary.gov.nr
+autodiscover.nauruhealth.gov.nr
+cpanel.nauruhealth.gov.nr
+cpcalendars.nauruhealth.gov.nr
+cpcontacts.nauruhealth.gov.nr
+ecrcp.gov.nr
+mail.nauruhealth.gov.nr
+naoero.gov.nr
+nauruhealth.gov.nr
+ronlaw.gov.nr
+vrid.gov.nr
+webdisk.nauruhealth.gov.nr
+webmail.nauruhealth.gov.nr
+www.ecrcp.gov.nr
+www.nauruhealth.gov.nr
+www.vrid.gov.nr

@@ -1,0 +1,7 @@
+mof.gov.mh
+ndmo.gov.mh
+staging.mof.gov.mh
+tilmake.gov.mh
+webmail.gov.mh
+www.mof.gov.mh
+www.ndmo.gov.mh
