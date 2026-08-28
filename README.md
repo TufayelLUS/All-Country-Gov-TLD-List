@@ -185,6 +185,8 @@ gov.pk
 gos.pk
 gok.pk
 gop.pk
+gog.pk
+gkp.pk
 gov.ht
 admin.ch
 gov.cv
