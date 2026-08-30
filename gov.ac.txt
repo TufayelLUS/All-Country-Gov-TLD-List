@@ -1,0 +1,13 @@
+ascension.gov.ac
+ascension-island.gov.ac
+autodiscover.ascension.gov.ac
+conservation-ascension-island.gov.ac
+cpanel.ascension.gov.ac
+cpcalendars.ascension.gov.ac
+cpcontacts.ascension.gov.ac
+mail.ascension.gov.ac
+webdisk.ascension.gov.ac
+webmail.ascension.gov.ac
+www.ascension.gov.ac
+www.ascension-island.gov.ac
+www.conservation-ascension-island.gov.ac

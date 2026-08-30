@@ -1,0 +1,13 @@
+autodiscover.gov.ms
+cas.gov.ms
+drivers.gov.ms
+gmexmb1.gov.ms
+gmexs3.gov.ms
+gmexs5.gov.ms
+invest.gov.ms
+linkcheck.gov.ms
+mail.gov.ms
+mrditespa.gov.ms
+pacs.gov.ms
+prime.gov.ms
+uptimerobot.gov.ms

@@ -1,0 +1,9 @@
+api.entry.gov.gs
+eps.entry.gov.gs
+eta.entry.gov.gs
+laws.gov.gs
+remote.gov.gs
+sggis.gov.gs
+www.gov.gs
+www.laws.gov.gs
+www.sggis.gov.gs

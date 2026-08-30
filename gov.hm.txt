@@ -1,0 +1,11 @@
+blog.gov.hm
+internet.gov.hm
+mail.gov.hm
+mc.china.gov.hm
+mx.mail.gov.hm
+nic.gov.hm
+open.china.gov.hm
+whois.gov.hm
+www.gov.hm
+www.mail.gov.hm
+www.nic.gov.hm
