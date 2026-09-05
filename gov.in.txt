@@ -17,6 +17,7 @@ aaccc.gov.in
 aaharasachivalaya.karnataka.gov.in
 aaib.gov.in
 aajeevika.gov.in
+aam.mohfw.gov.in
 aamci.tn.gov.in
 aapc.telangana.gov.in
 aapdamitra.ndma.gov.in
@@ -102,6 +103,7 @@ aepos.ap.gov.in
 aera.gov.in
 aerb.gov.in
 aerosports.telangana.gov.in
+af.swayam.gov.in
 afd.csdindia.gov.in
 affdf.gov.in
 afmcdg1d.gov.in
@@ -138,6 +140,7 @@ agridashboard.dac.gov.in
 agriinfra.dac.gov.in
 agriinvest.dac.gov.in
 agrimarketing.mizoram.gov.in
+agrimsp.telangana.gov.in
 agriolms.telangana.gov.in
 agristack.gov.in
 agriwelfare.gov.in
@@ -181,6 +184,7 @@ aims.kerala.gov.in
 aimsmohali.punjab.gov.in
 aimstraining.kerala.gov.in
 aiportal.ncrb.gov.in
+aipragya.up.gov.in
 air.chennaicustoms.gov.in
 aircustomschennai.gov.in
 airesume.vijnanakeralam.kerala.gov.in
@@ -236,6 +240,7 @@ amritsarovar.gov.in
 amroha.dcourts.gov.in
 amruthasamudhaya.karnataka.gov.in
 ams.karnataka.gov.in
+amsschennai.gov.in
 ana.crsorgi.gov.in
 anagrasarkalyan.gov.in
 anakapalli.ap.gov.in
@@ -282,13 +287,16 @@ apgenco.gov.in
 aphandtex.gov.in
 aphermc.ap.gov.in
 aphermconline.ap.gov.in
+api-dev.apseva.ap.gov.in
 api-dev.nalanda.investindia.gov.in
 api-dev.upag.gov.in
 api-prd.upag.gov.in
 api-sa.mcd.gov.in
 api-stg.upag.gov.in
+api-uat.apseva.ap.gov.in
 api.aishe.gov.in
 api.amravatiruralpolice.gov.in
+api.apseva.ap.gov.in
 api.bpa-buda.ap.gov.in
 api.bsafe.kerala.gov.in
 api.chennairivers.gov.in
@@ -301,6 +309,7 @@ api.emis.dtemaharashtra.gov.in
 api.hns.karnataka.gov.in
 api.karnataka.gov.in
 api.kerala.kcis.kerala.gov.in
+api.knmc.kerala.gov.in
 api.kolhapurpolice.gov.in
 api.lifemissionmis.kerala.gov.in
 api.mahasecurity.gov.in
@@ -383,6 +392,7 @@ apsche.ap.gov.in
 apsdmagis.ap.gov.in
 apsdps.ap.gov.in
 apseeds.ap.gov.in
+apseva.ap.gov.in
 apsgwd.gov.in
 apsird.gov.in
 apsrtc.ap.gov.in
@@ -395,6 +405,7 @@ apts.gov.in
 aptwgurukulam.ap.gov.in
 apvp.appolice.gov.in
 apwrims.ap.gov.in
+aqcsindia.gov.in
 aqmsdata.wbpcb.gov.in
 aqualoom.kwa.kerala.gov.in
 aranya.gov.in
@@ -429,6 +440,7 @@ artistregistration.artandculturalaffairshry.gov.in
 artsurrogacy.gov.in
 arunachalassembly.gov.in
 arunachalforests.gov.in
+arunachalplan.gov.in
 arunachalpr.gov.in
 arunachalpradesh.gov.in
 arunfcs.gov.in
@@ -754,6 +766,7 @@ bharatx.gov.in
 bharosahydpolice.telangana.gov.in
 bharosawsw.tspolice.gov.in
 bharuch.dcourts.gov.in
+bhashini.gov.in
 bhavnagar.dcourts.gov.in
 bhawan.homeodisha.gov.in
 bhawanigarh-prod.lgpunjab.gov.in
@@ -802,6 +815,8 @@ billportal.mahakosh.gov.in
 bim.telangana.gov.in
 bima.ap.gov.in
 bims.treasury.kerala.gov.in
+bio-id-uat.apseva.ap.gov.in
+bio-id.apseva.ap.gov.in
 biodiversityboard.mizoram.gov.in
 bioenergy.karnataka.gov.in
 biogas.mnre.gov.in
@@ -1002,6 +1017,7 @@ cdn.igotkarmayogi.gov.in
 cdn.prdlive.kerala.gov.in
 cdn.s3waas.gov.in
 cdn.victers.kite.kerala.gov.in
+cdnbbsr.s3waas.gov.in
 cdodoon.gov.in
 cds.fire.kerala.gov.in
 cdsco.gov.in
@@ -1048,6 +1064,7 @@ ceopunjab.gov.in
 ceosveep.karnataka.gov.in
 ceoup.gov.in
 cepmiz.karnataka.gov.in
+cerc-efiling.gov.in
 cercind.gov.in
 certificate.keraleeyam.kerala.gov.in
 cescmysore.karnataka.gov.in
@@ -1173,6 +1190,7 @@ chdanimalhusbandry.gov.in
 chdca.gov.in
 chdconsumercourt.gov.in
 chdctu.gov.in
+chdfood.gov.in
 chdmuseum.gov.in
 chdpublication.education.gov.in
 chdstatelibrary34.gov.in
@@ -1221,6 +1239,7 @@ chse.odisha.gov.in
 cht.gov.in
 chti.rajbhasha.gov.in
 churu.dcourts.gov.in
+cibf.meglabour.gov.in
 cic.gov.in
 cic.niti.gov.in
 cicef.gov.in
@@ -1229,6 +1248,7 @@ cid.cg.gov.in
 cid.karnataka.gov.in
 cidcrime.mizoram.gov.in
 ciet.ncert.gov.in
+cij.tn.gov.in
 cimschikkaballapura.karnataka.gov.in
 cimschikkamagaluru.karnataka.gov.in
 cip.icegate.gov.in
@@ -2209,6 +2229,7 @@ cppm.actrec.gov.in
 cpri.swagatam.gov.in
 cps.indianrail.gov.in
 cpwd.gov.in
+cra.tn.gov.in
 crcbng.karnataka.gov.in
 crckozhikode.gov.in
 crda.ap.gov.in
@@ -2279,6 +2300,7 @@ cybercrime.gov.in
 cyberdomekkdsummit.kerala.gov.in
 cyberswachhtakendra.gov.in
 cybpms.telangana.gov.in
+czma.goa.gov.in
 dac.gov.in
 dackkms.gov.in
 dadenggiri.gov.in
@@ -2415,6 +2437,7 @@ ddpibidaredu.karnataka.gov.in
 ddpmod.gov.in
 ddtenders.gov.in
 ddugky.gov.in
+ddvat.gov.in
 ddws.gov.in
 dea.gov.in
 dedwb.gov.in
@@ -2438,6 +2461,7 @@ demo-nodal-authority.nsws.gov.in
 demo.eoffice.ap.gov.in
 demo.eoffice.telangana.gov.in
 demo.giff.assam.gov.in
+demo.ikmpgapi.kerala.gov.in
 demo.karnataka.gov.in
 demo.kcis.kerala.gov.in
 demo.kms.gov.in
@@ -2448,6 +2472,7 @@ demo.mizoram.gov.in
 demo.mpeoffice.gov.in
 demo.plan.lsgkerala.gov.in
 demoblock.dmrr.mahaonline.gov.in
+demography.mha.gov.in
 demopearl.registration.kerala.gov.in
 demosamudram.utl.gov.in
 demotest.kswift.kerala.gov.in
@@ -2487,6 +2512,7 @@ dev-fb.swayam.gov.in
 dev-nlb.irndedup.gst.gov.in
 dev-rancher.oci.diksha.gov.in
 dev.api.rpscholarship.norkaroots.kerala.gov.in
+dev.apseva.ap.gov.in
 dev.cgihk.gov.in
 dev.crsorgi.gov.in
 dev.embassyofindiadakar.gov.in
@@ -2730,6 +2756,7 @@ doef.utl.gov.in
 dof.gov.in
 dolr.gov.in
 dom.karnataka.gov.in
+domw.gov.in
 doorstep.delhi.gov.in
 dop.karnataka.gov.in
 dopassets.gov.in
@@ -2852,6 +2879,7 @@ e-utthaan.gov.in
 eaabkari.mp.gov.in
 eaanklan.uk.gov.in
 eabkari.arunachal.gov.in
+eaccess.karnataka.gov.in
 eacpm.gov.in
 eadangal.tn.gov.in
 eadmin.punjab.gov.in
@@ -2955,6 +2983,7 @@ egtf.dgft.gov.in
 ehealth.telangana.gov.in
 ehealth.tn.gov.in
 ehf.telangana.gov.in
+ehod.karnataka.gov.in
 ehospital.ism.kerala.gov.in
 ehospital01.ap.gov.in
 ehospital02.ap.gov.in
@@ -3039,6 +3068,7 @@ emis5.tnschools.gov.in
 emisapp.tnschools.gov.in
 emislogin.tnschools.gov.in
 emislogin1.tnschools.gov.in
+emistech.tnschools.gov.in
 emitraapp.rajasthan.gov.in
 emitraathome.rajasthan.gov.in
 emitraplus.rajasthan.gov.in
@@ -3089,11 +3119,13 @@ eodb.mcd.gov.in
 eodbmanipur.mn.gov.in
 eodbmizoram.gov.in
 eoffgb.karnataka.gov.in
+eoffice.gov.in
 eoffice.bis.gov.in
 eoffice.cdsco.mohfw.gov.in
 eoffice.cea.gov.in
 eoffice.cmlre.gov.in
 eoffice.derc.gov.in
+eoffice.enforcementdirectorate.gov.in
 eoffice.goa.gov.in
 eoffice.hyderabadwater.gov.in
 eoffice.iasst.gov.in
@@ -3109,11 +3141,13 @@ eoffice.nwda.gov.in
 eoffice.pngrb.gov.in
 eoffice.rcil.gov.in
 eoffice.rrcat.gov.in
+eoffice.rrrlf.gov.in
 eoffice.telangana.gov.in
 eoffice.tn.gov.in
 eoffice.utl.gov.in
 eoffice1.tn.gov.in
 eofficebbmp.karnataka.gov.in
+eofficebhashini.karnataka.gov.in
 eofficeblgdivdc.karnataka.gov.in
 eofficeblgdivzp.karnataka.gov.in
 eofficeblgothers.karnataka.gov.in
@@ -3121,7 +3155,10 @@ eofficebngdivdc.karnataka.gov.in
 eofficebngdivzp.karnataka.gov.in
 eofficebngothers.karnataka.gov.in
 eofficebwssb.karnataka.gov.in
+eofficecitizen.karnataka.gov.in
+eofficedashboard.karnataka.gov.in
 eofficedemo.bihar.gov.in
+eofficedemo.karnataka.gov.in
 eofficedistrict.karnataka.gov.in
 eofficedk.karnataka.gov.in
 eofficeharyana.gov.in
@@ -3136,7 +3173,9 @@ eofficeksbcl.karnataka.gov.in
 eofficeksp.karnataka.gov.in
 eofficeksp2.karnataka.gov.in
 eofficekuwsdb.karnataka.gov.in
+eofficemahitimarga.karnataka.gov.in
 eofficemnp.karnataka.gov.in
+eofficems.karnataka.gov.in
 eofficemysdivdc.karnataka.gov.in
 eofficemysdivzp.karnataka.gov.in
 eofficemysothers.karnataka.gov.in
@@ -3191,6 +3230,7 @@ epanjeeyan.cg.gov.in
 epar.bihar.gov.in
 epar.karnataka.gov.in
 epar.mizoram.gov.in
+eparichay.karnataka.gov.in
 epariyojana.up.gov.in
 epass.kerala.gov.in
 epatashala.telangana.gov.in
@@ -3277,8 +3317,10 @@ esamrudha.ahd.kerala.gov.in
 esamrudha.kerala.gov.in
 esankhyiki.ai.mospi.gov.in
 esb.mp.gov.in
+esbc.karnataka.gov.in
 escrowpds.tn.gov.in
 esdmsplinc.karnataka.gov.in
+esec.karnataka.gov.in
 eseed.ap.gov.in
 eservice.arunachal.gov.in
 eservices.assam.gov.in
@@ -3304,11 +3346,13 @@ esign.ssp.karnataka.gov.in
 esign.telangana.gov.in
 esign.tn.gov.in
 esign.tripura.gov.in
+esigndr.karnataka.gov.in
 esigneoffice.karnataka.gov.in
 esignjudiciary.karnataka.gov.in
 esignservices.karnataka.gov.in
 esikshak.mpanashik.gov.in
 esisms.karnataka.gov.in
+esiwb.gov.in
 esmssg.goa.gov.in
 esparrow.bro.gov.in
 esr.tn.gov.in
@@ -3365,6 +3409,7 @@ expe.shar.gov.in
 expe1.shar.gov.in
 expe2.shar.gov.in
 explorer.staging.chits.telangana.gov.in
+explorer.t-chits.telangana.gov.in
 exporthubs.gov.in
 exservicemencorp.punjab.gov.in
 extlyncpool.mahagst.gov.in
@@ -3685,6 +3730,7 @@ governor.telangana.gov.in
 governoruk.gov.in
 govtczhss.mizoram.gov.in
 govthealth.cg.gov.in
+govtid.nagaland.gov.in
 govtprocurement.delhi.gov.in
 gpf.delhi.gov.in
 gpf.mcd.gov.in
@@ -3751,6 +3797,7 @@ gwater.kwa.kerala.gov.in
 gwd.telangana.gov.in
 gwmc.gov.in
 gwmc.eoffice.telangana.gov.in
+gwmc.goa.gov.in
 gwrms.telangana.gov.in
 h-pals.telangana.gov.in
 hackp.kerala.gov.in
@@ -3830,6 +3877,7 @@ hcipos.gov.in
 hcipretoria.gov.in
 hciseychelles.gov.in
 hcisingapore.gov.in
+hciyaounde.gov.in
 hcizambia.gov.in
 hckerala.gov.in
 hckinfo.kerala.gov.in
@@ -3851,9 +3899,11 @@ hec.aptransco.gov.in
 hed.karnataka.gov.in
 heecontent.upsdc.gov.in
 helisewa.civilaviation.gov.in
+help-dgt.skillindiadigital.gov.in
 help.collabcad.gov.in
 helpdesk-tups.arpdop.gov.in
 helpdesk.forest-stack.digivan.forest.rajasthan.gov.in
+helpdesk.tgdex.telangana.gov.in
 hemophilia.up.gov.in
 herc.gov.in
 heritage.ahmedabadcity.gov.in
@@ -3991,12 +4041,15 @@ huttigold.karnataka.gov.in
 hwcs.tn.gov.in
 hyd.sms.gov.in
 hydconvergence.telangana.gov.in
+hyderabad.eoffice.telangana.gov.in
 hyderabad.telangana.gov.in
+hyderabadpolice.gov.in
 hydgw.sms.gov.in
 hydpolicesms.telangana.gov.in
 hydrep.sms.gov.in
 hymsys.hsw.kerala.gov.in
 i4c.mha.gov.in
+iaf.gov.in
 iaps.vigilance.kerala.gov.in
 iasmess.tn.gov.in
 iav.kerala.gov.in
@@ -4165,6 +4218,7 @@ indiaingreece.gov.in
 indiainmexico.gov.in
 indiainseattle.gov.in
 indiainvestmentgrid.gov.in
+indianairforce.gov.in
 indiancitizenshiponline.gov.in
 indianconsularservices.mea.gov.in
 indianculture.gov.in
@@ -4218,8 +4272,10 @@ insights.pngrb.gov.in
 inspcloud.sebi.gov.in
 inspiria.ndl.gov.in
 institutes.ndear.gov.in
+int.tdscpc.gov.in
 intern.meity.gov.in
 internal.cgsdc.cgstate.gov.in
+internship.mospi.gov.in
 internshipincometax.gov.in
 interstatecouncil.gov.in
 intra.dbtindia.gov.in
@@ -4401,6 +4457,7 @@ jjb.maharashtra.gov.in
 jjis.maharashtra.gov.in
 jjm.gov.in
 jjm.tn.gov.in
+jjm.wbphed.gov.in
 jjmapp.ddws.gov.in
 jk.gov.in
 jkaphrms.jk.gov.in
@@ -4425,6 +4482,7 @@ jnvdewas.gov.in
 jnvgadag.gov.in
 jnvkottayam.gov.in
 jnvnalgonda.gov.in
+jnvsouthwest.gov.in
 jobfair.knowledgemission.kerala.gov.in
 jobfest.kerala.gov.in
 joblinks.nagaland.gov.in
@@ -4733,6 +4791,7 @@ krama.karnataka.gov.in
 krch.karnataka.gov.in
 kredl.karnataka.gov.in
 kreis.karnataka.gov.in
+kridl.karnataka.gov.in
 krishi.maharashtra.gov.in
 krishimaratavahini.karnataka.gov.in
 krishivistar.gov.in
@@ -4856,6 +4915,7 @@ kwa.kerala.gov.in
 kwatestserver.kwa.kerala.gov.in
 kyarnmart.kerala.gov.in
 kyla.kerala.gov.in
+kym.nadaindia.yas.gov.in
 labdirectory.bis.gov.in
 labour.gov.in
 labour.arunachal.gov.in
@@ -4901,6 +4961,7 @@ laturpolice.gov.in
 law.karnataka.gov.in
 lawmin.gov.in
 lawngtlaicollege.mizoram.gov.in
+lawreformscommission.kerala.gov.in
 lawsect.kerala.gov.in
 lbms.telangana.gov.in
 lbmsadmin.telangana.gov.in
@@ -5064,6 +5125,7 @@ maharashtrasadan.maharashtra.gov.in
 maharashtrasrpf.gov.in
 maharashtratourism.gov.in
 maharerait.maharashtra.gov.in
+mahasahakar.maharashtra.gov.in
 mahasainik.maharashtra.gov.in
 mahasamund.gov.in
 mahasamundpolice.cg.gov.in
@@ -5461,6 +5523,7 @@ manipurapi.mn.gov.in
 manipureducation.gov.in
 manipurmc.mn.gov.in
 manipurpr.gov.in
+manipurskills.mn.gov.in
 manipursrlm.gov.in
 manipurssc.mn.gov.in
 manipurtaxes.gov.in
@@ -5755,6 +5818,7 @@ mobileapi.gem.gov.in
 mobileone.karnataka.gov.in
 mod.gov.in
 moef.gov.in
+mofpi.gov.in
 moga.gov.in
 moga-prod.lgpunjab.gov.in
 moga-uat.lgpunjab.gov.in
@@ -5981,6 +6045,7 @@ nalsa.gov.in
 namami.gov.in
 namchi.dcourts.gov.in
 namematcher.karnataka.gov.in
+namematcherdr.karnataka.gov.in
 nammasalaitnhd.tn.gov.in
 nammaschool.tnschools.gov.in
 nammaschoolpavilion.tnschools.gov.in
@@ -6156,6 +6221,7 @@ nichq.swagatam.gov.in
 nicmanipur.swagatam.gov.in
 nicpy.swagatam.gov.in
 nicsdtcnagpur.swagatam.gov.in
+nidaan.cg.gov.in
 nidm.gov.in
 nielit.gov.in
 nifims.nagaland.gov.in
@@ -6248,6 +6314,7 @@ nrpc.gov.in
 nrsc.gov.in
 nrts.indiannursingcouncil.gov.in
 nscbm.ndl.gov.in
+nsccc.nagaland.gov.in
 nscd.gov.in
 nsd.gov.in
 nsdctwodisha.nsd.gov.in
@@ -6357,6 +6424,7 @@ onoe.gov.in
 openauction.gov.in
 openpearl.utl.gov.in
 opensdi.kerala.gov.in
+operator.punal.tn.gov.in
 opm.telangana.gov.in
 opmsauth.telangana.gov.in
 opsconline.gov.in
@@ -6438,6 +6506,7 @@ paschimbardhaman.gov.in
 paschimbardhaman.dcourts.gov.in
 paschimmedinipur.gov.in
 paschimmedinipur.dcourts.gov.in
+pashuaushadhi.dahd.gov.in
 pashubazar.telangana.gov.in
 pasighat.dcourts.gov.in
 pask.kwa.kerala.gov.in
@@ -6540,6 +6609,7 @@ phailengrdblock.mizoram.gov.in
 pharmacycouncil.telangana.gov.in
 phase2.asapkerala.gov.in
 phd.maharashtra.gov.in
+phdratings.maharashtra.gov.in
 phed.mizoram.gov.in
 phedbihar.gov.in
 phedharyana.gov.in
@@ -6557,6 +6627,9 @@ phrgis.tn.gov.in
 pib.gov.in
 pilikula.karnataka.gov.in
 pilot.cbi.gov.in
+pims.bihar.gov.in
+pims.karnataka.gov.in
+pims2.karnataka.gov.in
 pioneerherbals.centralexciseaudit03vapi.gov.in
 pithoragarh.gov.in
 pkldrsv.mp.gov.in
@@ -6623,6 +6696,7 @@ pmistnhd.tn.gov.in
 pmistraining.mahapwd.gov.in
 pmjay.gov.in
 pmjdy.gov.in
+pmkapi.kerala.gov.in
 pmkapi.tn.gov.in
 pmkapi.tripura.gov.in
 pmkapi.up.gov.in
@@ -6955,6 +7029,7 @@ rangayanamysore.karnataka.gov.in
 rangayanashivamogga.karnataka.gov.in
 rapid.imd.gov.in
 raptc.gov.in
+raptiffm.fmisc.up.gov.in
 rarediseases.mohfw.gov.in
 rashtrapatibhavan.gov.in
 rashtrapatisachivalaya.gov.in
@@ -7026,6 +7101,7 @@ reg.goa.gov.in
 reg.keralaenergy.gov.in
 reg.keralapoliceacademy.gov.in
 reg.kyla.kerala.gov.in
+reg.skillconclave.kerala.gov.in
 regional-commissioner-belgaum.gov.in
 register.icare.sameer.gov.in
 registrarfirms.mp.gov.in
@@ -7098,6 +7174,7 @@ rguhs.karnataka.gov.in
 rhbonline.rajasthan.gov.in
 rhodisha.gov.in
 ribhoi.gov.in
+righttoinformation.gov.in
 righttorepairindia.gov.in
 riicoerp.industries.rajasthan.gov.in
 rioneshillong.gov.in
@@ -7194,6 +7271,7 @@ rteparadarshi.odisha.gov.in
 rteportal.mp.gov.in
 rti.gov.in
 rti-admin.mizoram.gov.in
+rti.dopt.gov.in
 rti.goa.gov.in
 rti.kacwfc.kerala.gov.in
 rti.mizoram.gov.in
@@ -7206,6 +7284,7 @@ rtionline.goa.gov.in
 rtionline.karnataka.gov.in
 rtionline.tn.gov.in
 rtionline.up.gov.in
+rtionlinedemo.karnataka.gov.in
 rtitraining.sic.kerala.gov.in
 rtps.assam.gov.in
 rtps.mizoram.gov.in
@@ -7214,6 +7293,7 @@ rtswebapi.srapune.gov.in
 rtvsta.tn.gov.in
 rubberboard.gov.in
 rudraprayag.gov.in
+runavm.maharashtra.gov.in
 rupnagar.gov.in
 rupnagar.dcourts.gov.in
 ruralbazaar.gov.in
@@ -7791,6 +7871,7 @@ serp.telangana.gov.in
 server.dghrdcbic.gov.in
 server.hda.gov.in
 server.jpsc.gov.in
+server3.ehospital.gov.in
 server4.ehospital.gov.in
 server5.ehospital.gov.in
 server6.ehospital.gov.in
@@ -8003,6 +8084,8 @@ spandana.ap.gov.in
 spark.gov.in
 sparkonmobile.kerala.gov.in
 sparrow-soi.gov.in
+sparrow.cbse.gov.in
+sparrow.dgca.gov.in
 sparrow.incometax.gov.in
 sparrow.nwda.gov.in
 sparsh.defencepension.gov.in
@@ -8333,6 +8416,7 @@ surguja.gov.in
 survey.diksha.gov.in
 survey.entebhoomi.kerala.gov.in
 survey.wcd.kerala.gov.in
+surveydata.ai.mospi.gov.in
 surveyofindia.gov.in
 suryapet.eoffice.telangana.gov.in
 suryapet.telangana.gov.in
@@ -8347,6 +8431,7 @@ svamitva.karnataka.gov.in
 svamitva.up.gov.in
 svccdurban.gov.in
 sveep.ceo.kerala.gov.in
+svkavm.maharashtra.gov.in
 svmcm.wbhed.gov.in
 svpgsavmu.maharashtra.gov.in
 svpnpa.gov.in
@@ -8497,15 +8582,18 @@ tgiopeshi.telangana.gov.in
 tgmdc.telangana.gov.in
 tgmdchrms.telangana.gov.in
 tgmsidc.telangana.gov.in
+tgoilfed.telangana.gov.in
 tgpmb.telangana.gov.in
 tgrac.telangana.gov.in
 tgsacs.telangana.gov.in
 tgscscl.telangana.gov.in
 tgscw.telangana.gov.in
 tgsrtcstrpcms.telangana.gov.in
+tgss.telangana.gov.in
 tgto.telangana.gov.in
 tgtwgurukulam.telangana.gov.in
 tgtwreis.telangana.gov.in
+tgvms.telangana.gov.in
 thane.gov.in
 thanepolice.gov.in
 thaneruralpolice.gov.in
@@ -8668,6 +8756,7 @@ transfers.dse.telangana.gov.in
 transfers.tnschools.gov.in
 transgender.dosje.gov.in
 translations.karnataka.gov.in
+transliteration.karnataka.gov.in
 transport.karnataka.gov.in
 transport.mizoram.gov.in
 transport.telangana.gov.in
@@ -8757,6 +8846,7 @@ uat-dalitbandhu.telangana.gov.in
 uat-nlb.irndedup.gst.gov.in
 uat-sws.invest.mp.gov.in
 uat-welfare.telangana.gov.in
+uat.apseva.ap.gov.in
 uat.cmhelpline.cg.gov.in
 uat.crsorgi.gov.in
 uat.dbt.karnataka.gov.in
@@ -8765,6 +8855,7 @@ uat.ifmisnextgen.cg.gov.in
 uat.irndedup.gst.gov.in
 uat.mcludhiana.gov.in
 uat.oasis.gov.in
+uat.odishatreasury.gov.in
 uat.seedap.ap.gov.in
 uat.tstssca.telangana.gov.in
 uat.vswsonline.ap.gov.in
@@ -8906,6 +8997,7 @@ varanasi.gov.in
 varanasi.nsd.gov.in
 vat.andaman.gov.in
 vault.azsraj01.rajasthan.gov.in
+vayusena.gov.in
 vazhikaatti.tnschools.gov.in
 vbsr.nitiforstates.gov.in
 vc-scheduler.isro.dos.gov.in
@@ -8952,6 +9044,7 @@ vijayanagarapolice.karnataka.gov.in
 vijayapura.dcourts.gov.in
 vijayapuradistrictpolice.gov.in
 vijayapurapolice.karnataka.gov.in
+vikarabad.ahctapps.aarogyasri.telangana.gov.in
 vikarabad.dcourts.gov.in
 vikarabad.eoffice.telangana.gov.in
 vikarabad.telangana.gov.in
@@ -8966,6 +9059,7 @@ vimukthimarathon.kerala.gov.in
 vindhyachal.gov.in
 virtualtour.rashtrapatibhavan.gov.in
 visanote.mea.gov.in
+vishwakarma.up.gov.in
 vishwakosh.marathi.gov.in
 vision2031.kerala.gov.in
 vismuseum.gov.in
@@ -9035,6 +9129,7 @@ walmidharwad.karnataka.gov.in
 wamis-esign.odisha.gov.in
 wamis-odisha.gov.in
 wams.treasury.kerala.gov.in
+wanaparthy.eoffice.telangana.gov.in
 wanaparthy.telangana.gov.in
 wanaparthymunicipality.telangana.gov.in
 warangal.eoffice.telangana.gov.in
@@ -9083,6 +9178,7 @@ wbphed.gov.in
 wbpower.gov.in
 wbprd.gov.in
 wbpri.gov.in
+wbpwd.gov.in
 wbreservation.gov.in
 wbslsa.bangla.gov.in
 wbsportsandyouth.gov.in
@@ -9695,6 +9791,7 @@ webportal.karnataka.gov.in
 webratna.india.gov.in
 webridge.telangana.gov.in
 webservices.samagra.gov.in
+webvpn.crpf.gov.in
 welfare.haryanapost.gov.in
 westbengalpost.gov.in
 westgarohills.gov.in
@@ -9746,6 +9843,7 @@ www.aabhaar.punepolice.gov.in
 www.aaby.ap.gov.in
 www.aaby.telangana.gov.in
 www.aaib.gov.in
+www.aam.mohfw.gov.in
 www.aamci.tn.gov.in
 www.aapdamitra.ndma.gov.in
 www.aapurti.nhmmp.gov.in
@@ -9797,6 +9895,7 @@ www.agri.goa.gov.in
 www.agriinfra.dac.gov.in
 www.agriinvest.dac.gov.in
 www.agrimarketing.mizoram.gov.in
+www.agrimsp.telangana.gov.in
 www.agriolms.telangana.gov.in
 www.agriwelfare.gov.in
 www.agtn.cag.gov.in
@@ -9854,9 +9953,12 @@ www.apfire.gov.in
 www.aphandtex.gov.in
 www.aphermc.ap.gov.in
 www.aphermconline.ap.gov.in
+www.api-dev.apseva.ap.gov.in
 www.api-dev.upag.gov.in
 www.api-prd.upag.gov.in
 www.api-stg.upag.gov.in
+www.api-uat.apseva.ap.gov.in
+www.api.apseva.ap.gov.in
 www.api.bpa-buda.ap.gov.in
 www.api.cmwithme.kerala.gov.in
 www.api.mcacms.gov.in
@@ -9891,6 +9993,7 @@ www.appstoretest.cbic.gov.in
 www.aps.dac.gov.in
 www.apsdmagis.ap.gov.in
 www.apsdps.ap.gov.in
+www.apseva.ap.gov.in
 www.apsgwd.gov.in
 www.apsird.gov.in
 www.apsrtc.ap.gov.in
@@ -9900,6 +10003,7 @@ www.aptemples.ap.gov.in
 www.aptitude.asapkerala.gov.in
 www.aptribes.gov.in
 www.aptwgurukulam.ap.gov.in
+www.aqcsindia.gov.in
 www.aqualoom.kwa.kerala.gov.in
 www.aranya.gov.in
 www.arariapolice.bihar.gov.in
@@ -9912,6 +10016,7 @@ www.armsbcp.karnataka.gov.in
 www.arogyakeralam.gov.in
 www.arogyasanchayani.mcgm.gov.in
 www.artandculture.tn.gov.in
+www.arunachalplan.gov.in
 www.arunachalpr.gov.in
 www.asapkerala.gov.in
 www.ashacp.mizoram.gov.in
@@ -9982,6 +10087,7 @@ www.bharat5glabs.gov.in
 www.bharatiyabhasha.education.gov.in
 www.bharatkeveer.gov.in
 www.bharosahydpolice.telangana.gov.in
+www.bhashini.gov.in
 www.bhawan.homeodisha.gov.in
 www.bhoomi.karnataka.gov.in
 www.bhoomimalayalam.kerala.gov.in
@@ -10001,6 +10107,8 @@ www.bijlipgr.gov.in
 www.bim.telangana.gov.in
 www.bima.ap.gov.in
 www.bims.treasury.kerala.gov.in
+www.bio-id-uat.apseva.ap.gov.in
+www.bio-id.apseva.ap.gov.in
 www.biodiversityboard.mizoram.gov.in
 www.biogas.mnre.gov.in
 www.birdfestival.goa.gov.in
@@ -10113,6 +10221,7 @@ www.ceompqlessvoting.mp.gov.in
 www.ceopunjab.gov.in
 www.ceosveep.karnataka.gov.in
 www.cepmiz.karnataka.gov.in
+www.cerc-efiling.gov.in
 www.certificate.keraleeyam.kerala.gov.in
 www.cescmysore.karnataka.gov.in
 www.cetl.tn.gov.in
@@ -10189,6 +10298,7 @@ www.chdanimalhusbandry.gov.in
 www.chdca.gov.in
 www.chdconsumercourt.gov.in
 www.chdctu.gov.in
+www.chdfood.gov.in
 www.chdmuseum.gov.in
 www.chdpublication.education.gov.in
 www.chdpublication.mhrd.gov.in
@@ -10217,6 +10327,7 @@ www.cic.gov.in
 www.cicef.gov.in
 www.cicharyana.gov.in
 www.cid.cg.gov.in
+www.cij.tn.gov.in
 www.cip.icegate.gov.in
 www.cipet.gov.in
 www.cipetlibrary.gov.in
@@ -10317,6 +10428,7 @@ www.cpikalaburgi.karnataka.gov.in
 www.cppm.actrec.gov.in
 www.cps.indianrail.gov.in
 www.cpwd.gov.in
+www.cra.tn.gov.in
 www.crcbng.karnataka.gov.in
 www.crckozhikode.gov.in
 www.crickets.mizoram.gov.in
@@ -10350,6 +10462,7 @@ www.cybercrime.gov.in
 www.cyberdomekkdsummit.kerala.gov.in
 www.cyberswachhtakendra.gov.in
 www.cybpms.telangana.gov.in
+www.czma.goa.gov.in
 www.dackkms.gov.in
 www.dadenggiri.gov.in
 www.dadfonline.gov.in
@@ -10395,12 +10508,14 @@ www.dcconnect.ctd.tn.gov.in
 www.dcescholarship.kerala.gov.in
 www.dcma.mizoram.gov.in
 www.dconline.mizoram.gov.in
+www.dcpvisits.pcpc.gov.in
 www.ddc.delhi.gov.in
 www.dddp.gov.in
 www.ddfsnrhm.kerala.gov.in
 www.ddma.mizoram.gov.in
 www.ddpmod.gov.in
 www.ddtenders.gov.in
+www.ddvat.gov.in
 www.defenceinvestorcell.gov.in
 www.defexpo.gov.in
 www.defproc.gov.in
@@ -10421,6 +10536,7 @@ www.desagri.gov.in
 www.descas.kerala.gov.in
 www.destsyb.telangana.gov.in
 www.desw.gov.in
+www.dev.apseva.ap.gov.in
 www.dev.upag.gov.in
 www.dev.yipkdisc.kerala.gov.in
 www.devcp.customspatna.gov.in
@@ -10487,6 +10603,7 @@ www.doe.gov.in
 www.dof.gov.in
 www.dohe-education.gov.in
 www.dom.karnataka.gov.in
+www.domw.gov.in
 www.doppw.gov.in
 www.dor.gov.in
 www.dos.gov.in
@@ -10629,11 +10746,13 @@ www.eoffgb.karnataka.gov.in
 www.eoffice.cdsco.mohfw.gov.in
 www.eoffice.cea.gov.in
 www.eoffice.derc.gov.in
+www.eoffice.enforcementdirectorate.gov.in
 www.eoffice.goa.gov.in
 www.eoffice.iasst.gov.in
 www.eoffice.karnataka.gov.in
 www.eoffice.mizoram.gov.in
 www.eoffice.nwda.gov.in
+www.eoffice.rrrlf.gov.in
 www.eoffice.utl.gov.in
 www.eoffice1.tn.gov.in
 www.eofficeblgdivdc.karnataka.gov.in
@@ -10700,6 +10819,7 @@ www.eportal.britatom.gov.in
 www.epos.delhi.gov.in
 www.epos.telangana.gov.in
 www.eposservices.telangana.gov.in
+www.epost-indiapost.gov.in
 www.epostoffice.gov.in
 www.epostr.gov.in
 www.eproc.punjab.gov.in
@@ -10829,6 +10949,7 @@ www.gamesofskill.nagaland.gov.in
 www.gandhihospital.telangana.gov.in
 www.garden.nmc.gov.in
 www.gatepass.chennaiport.gov.in
+www.gavlts.goa.gov.in
 www.gazette.kerala.gov.in
 www.gazetteer.goa.gov.in
 www.gbpihed.gov.in
@@ -10927,6 +11048,7 @@ www.haryanafood.gov.in
 www.haryanahealth.gov.in
 www.haryanait.gov.in
 www.haryanajudiciary.gov.in
+www.haryanapolice.gov.in
 www.haryanarera.gov.in
 www.haryanascbc.gov.in
 www.haryanatourism.gov.in
@@ -11009,8 +11131,10 @@ www.hsw.kerala.gov.in
 www.htedu.maharashtra.gov.in
 www.htp.gov.in
 www.hwcs.tn.gov.in
+www.hyderabadpolice.gov.in
 www.hydpolicesms.telangana.gov.in
 www.hymsys.hsw.kerala.gov.in
+www.iaf.gov.in
 www.iaps.vigilance.kerala.gov.in
 www.iasmess.tn.gov.in
 www.iav.kerala.gov.in
@@ -11100,6 +11224,7 @@ www.indiainfiji.gov.in
 www.indiaingreece.gov.in
 www.indiainmexico.gov.in
 www.indiainseattle.gov.in
+www.indianairforce.gov.in
 www.indianculture.gov.in
 www.indianembassyalgiers.gov.in
 www.indianembassybaku.gov.in
@@ -11126,6 +11251,7 @@ www.infrastructureindia.gov.in
 www.innovex.larpm.gov.in
 www.inspace.gov.in
 www.institutes.ndear.gov.in
+www.internship.mospi.gov.in
 www.intra.dopt.gov.in
 www.intraawards.gov.in
 www.intrahstes.gov.in
@@ -11187,6 +11313,7 @@ www.jhargram.gov.in
 www.jharkhandpanchayats.gov.in
 www.jhiri.jammu.gov.in
 www.jjm.tn.gov.in
+www.jjm.wbphed.gov.in
 www.jkcomtax.gov.in
 www.jkdmm.bihar.gov.in
 www.jkeducation.gov.in
@@ -11304,6 +11431,7 @@ www.kppp.karnataka.gov.in
 www.kpsc.nscd.gov.in
 www.krama.karnataka.gov.in
 www.krch.karnataka.gov.in
+www.kridl.karnataka.gov.in
 www.krishi.maharashtra.gov.in
 www.krishivistar.gov.in
 www.krl.kerala.gov.in
@@ -11341,6 +11469,7 @@ www.kvksiaha.mizoram.gov.in
 www.kvkwestkameng.gov.in
 www.kyarnmart.kerala.gov.in
 www.kyla.kerala.gov.in
+www.kym.nadaindia.yas.gov.in
 www.labdirectory.bis.gov.in
 www.labour.arunachal.gov.in
 www.labourauthoritycases.delhi.gov.in
@@ -11357,6 +11486,7 @@ www.landreforms.tn.gov.in
 www.landtax.mizoram.gov.in
 www.larpm.gov.in
 www.laturpolice.gov.in
+www.lawreformscommission.kerala.gov.in
 www.lawsect.kerala.gov.in
 www.ldo.gov.in
 www.legalaffairs.gov.in
@@ -11737,6 +11867,7 @@ www.nrhmchd.gov.in
 www.nri.goa.gov.in
 www.nrpc.gov.in
 www.nrts.indiannursingcouncil.gov.in
+www.nsccc.nagaland.gov.in
 www.nsdctwodisha.nsd.gov.in
 www.nsgm.gov.in
 www.nsp.gov.in
@@ -11823,6 +11954,7 @@ www.parimarjan.bihar.gov.in
 www.parliamentaryaffairs.mp.gov.in
 www.paschimbardhaman.gov.in
 www.paschimmedinipur.gov.in
+www.pashuaushadhi.dahd.gov.in
 www.pashubazar.telangana.gov.in
 www.pask.kwa.kerala.gov.in
 www.passsad.up.gov.in
@@ -11855,6 +11987,7 @@ www.pheoodisha.gov.in
 www.phhc.gov.in
 www.phoenixrcb.ansi.gov.in
 www.pib.gov.in
+www.pims.bihar.gov.in
 www.pioneerherbals.centralexciseaudit03vapi.gov.in
 www.pkldrsv.mp.gov.in
 www.planning.telangana.gov.in
@@ -12020,6 +12153,7 @@ www.ramanujan-mpsedc.mp.gov.in
 www.ramrajatemple.mp.gov.in
 www.ranaghat.gov.in
 www.rapid.imd.gov.in
+www.raptiffm.fmisc.up.gov.in
 www.rarediseases.mohfw.gov.in
 www.rashtrapatibhavan.gov.in
 www.rcchhattisgarh.gov.in
@@ -12079,6 +12213,7 @@ www.rgmwb.gov.in
 www.rgniyd.gov.in
 www.rguhs.karnataka.gov.in
 www.rhodisha.gov.in
+www.righttoinformation.gov.in
 www.righttorepairindia.gov.in
 www.rlsa.gov.in
 www.rmc.gov.in
@@ -12121,6 +12256,7 @@ www.rswan-imp-sub2.rajasthan.gov.in
 www.rtcbangalore.cag.gov.in
 www.rtdc.tourism.rajasthan.gov.in
 www.rteparadarshi.odisha.gov.in
+www.rti.gov.in
 www.rtinagpur.cag.gov.in
 www.rtiodisha.gov.in
 www.rtionline.gov.in
@@ -12321,6 +12457,8 @@ www.spark.gov.in
 www.sparkonmobile.kerala.gov.in
 www.sparrow-soi.gov.in
 www.sparrow.ansi.gov.in
+www.sparrow.cbse.gov.in
+www.sparrow.dgca.gov.in
 www.sparrow.nwda.gov.in
 www.sparsh.mp.gov.in
 www.spartan.mizoram.gov.in
@@ -12405,6 +12543,7 @@ www.super50upsc.bodoland.gov.in
 www.support.fcraonline.gov.in
 www.supremecourt.gov.in
 www.surakshasetu.ddd.gov.in
+www.surveydata.ai.mospi.gov.in
 www.surveyofindia.gov.in
 www.svccdurban.gov.in
 www.sw.cg.gov.in
@@ -12597,9 +12736,11 @@ www.twreisjournals.telangana.gov.in
 www.u-win.gov.in
 www.uaoa.gov.in
 www.uat-sws.invest.mp.gov.in
+www.uat.apseva.ap.gov.in
 www.uat.cbfcindia.gov.in
 www.uat.ecinepramaan.gov.in
 www.uat.oasis.gov.in
+www.uat.odishatreasury.gov.in
 www.uat.saras.gov.in
 www.uat.vswsonline.ap.gov.in
 www.uatdbt.tnega.tn.gov.in
@@ -12656,6 +12797,7 @@ www.vanopaj.mp.gov.in
 www.varahmihir-coe.mp.gov.in
 www.varanasi.nsd.gov.in
 www.vat.andaman.gov.in
+www.vayusena.gov.in
 www.vccmexpcsrv01.rajasthan.gov.in
 www.vccmexpcsrv02.rajasthan.gov.in
 www.vcdrcmexpcsrv03.rajasthan.gov.in
@@ -12718,6 +12860,7 @@ www.wbphed.gov.in
 www.wbpower.gov.in
 www.wbprd.gov.in
 www.wbpri.gov.in
+www.wbpwd.gov.in
 www.wbreservation.gov.in
 www.wbslsa.bangla.gov.in
 www.wbsportsandyouth.gov.in
@@ -12755,6 +12898,7 @@ www.ysrbima.ap.gov.in
 www.zpamravati.gov.in
 www.zpbeed.gov.in
 www.zphingoli.gov.in
+www.zpjaipur.gov.in
 www.zpsatara.gov.in
 www.zpsolapur.gov.in
 www.zpyadgir.gov.in
@@ -12775,6 +12919,7 @@ ycbyogacenter.ayush.gov.in
 yearofenterprises.kerala.gov.in
 yimsyadgiri.karnataka.gov.in
 yip.kerala.gov.in
+yorumm.incometaxdelhi.gov.in
 youngindia.gov.in
 youthapi.youngindia.gov.in
 youtube.mysoredasara.gov.in
@@ -12815,6 +12960,7 @@ zpgondia.gov.in
 zphassan.karnataka.gov.in
 zphaveri.karnataka.gov.in
 zphingoli.gov.in
+zpjaipur.gov.in
 zpkalaburagi.karnataka.gov.in
 zpkodagu.karnataka.gov.in
 zpkolar.karnataka.gov.in
